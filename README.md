@@ -2,7 +2,7 @@
 
 📍 Victoria, BC | 🎓 BSc Computer Science (Co-op) @ University of Victoria  
 💼 IMIT Generalist @ Government of BC – Attorney General Office  
-🌐 [GitHub](https://github.com/KenKapana.com
+🌐 [GitHub][https://github.com/KenKapana.com](https://github.com/KenKapana)
 ---
 
 ## 🛠️ Technical Skills
