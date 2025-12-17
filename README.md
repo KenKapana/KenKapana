@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Ken Kawasaki
 
 📍 Victoria, BC | 🎓 BSc Computer Science (Co-op) @ University of Victoria  
-💼 IMIT Generalist @ Government of BC – Attorney General Office  
-🌐 [GitHub][https://github.com/KenKapana.com](https://github.com/KenKapana)
+🌐 https://www.linkedin.com/in/ken-kapana/
 ---
 
 ## 🛠️ Technical Skills
