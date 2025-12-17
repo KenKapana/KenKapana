@@ -34,7 +34,7 @@ and more!
 
 - 📧 kenakapana@gmail.com
 - 📍 Victoria, BC
-- 🔗 LinkedIn *(Add later)*
+- 🔗 https://www.linkedin.com/in/ken-kapana/
 
 ---
 
